@@ -12,6 +12,6 @@ public class FileManagerTask {
 
     public void execute() {
 
-        System.out.println("spring task execute ...");
+        System.out.println("springmvc task execute ...");
     }
 }
